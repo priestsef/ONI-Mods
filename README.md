@@ -1,3 +1,9 @@
+# Discord
+https://discord.gg/pVtmt9D
+
+
+--------------
+
 # ONI-Mods
 Oxygen not Included Mods
 
