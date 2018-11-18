@@ -39,6 +39,16 @@ Coal Scrubber mod
 ----
 On CO2 supplied, converts 3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs.
 
+-------------
+Coal Scrubber Piped mod
+----
+On CO2 supplied, converts 3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs.
+
+-------------
+Dynamic Plants mod
+----
+Guess what.
+
 ------------------
 ------------------
 ------------------
