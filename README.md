@@ -10,7 +10,7 @@ Oxygen not Included Mods
 Thank you, bitches, for blocking the double recipe ability...
 
 -------------
-Dynamic Buildings mod. Теперь и па-рюсскэ.
+Dynamic Buildings mod. Теперь конфигуратор знает па-рюсскэ.
 ----
 
 **!!! [ONI-Common.dll](https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods) needed !!!** 
