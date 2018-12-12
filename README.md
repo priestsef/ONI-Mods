@@ -17,7 +17,7 @@ Dynamic Buildings mod. Теперь конфигуратор знает па-р�
 
 Features viewable through the configurator. You can keep the exe wherever you want.
 
-Adds recipe to the Metal Refinery Mafic Rock + Regolith = Iron
+ New recipes
 
 Mop ANY q-ty of liquid in a tile.
 
