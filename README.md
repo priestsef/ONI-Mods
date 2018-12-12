@@ -35,7 +35,7 @@ All critters life duration and reproduction rate customizable. Incubating period
 Tame Happy and no overcrowding unhappiness.
 
 -------------
-Scrubbers mod
+Scrubbers
 ----
 
 Coal Scrubber Piped (3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs)
