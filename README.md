@@ -40,11 +40,11 @@ Tame Happy and no overcrowding unhappiness.
 Scrubbers
 ----
 
-Coal Scrubber Piped (3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs)
+Coal Scrubber Piped CO2 --> C (coal) + O2 (Oxygen) 
 
-Coal Scrubber (3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs)
+Coal Scrubber CO2 --> C (coal) + O2 (Oxygen) 
 
-Chlorine Scrubber (2 Kg Cl = 2Kg Bleach Stone. Gives out by 2Kg packs)
+Chlorine Scrubber Cl  --> Bleach Stone.
 
 -------------
 Dynamic Plants mod
