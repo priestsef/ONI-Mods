@@ -1,7 +1,9 @@
 # Discord
 https://discord.gg/DgUbwkW
 
+Video instruction installing mods to ONI
 
+https://www.youtube.com/watch?v=b4tbMF4wmLA
 --------------
 
 # ONI-Mods
