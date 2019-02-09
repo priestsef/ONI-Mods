@@ -11,8 +11,6 @@ https://www.youtube.com/watch?v=b4tbMF4wmLA
 # ONI-Mods
 Oxygen not Included Mods
 
-Thank you, bitches, for blocking the double recipe ability...
-
 -------------
 Dynamic Buildings mod. Теперь конфигуратор знает па-рюсскэ.
 ----
@@ -20,16 +18,6 @@ Dynamic Buildings mod. Теперь конфигуратор знает па-р�
 **!!! [ONI-Common.dll](https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods) needed !!!** 
 
 Features viewable through the configurator. You can keep the exe wherever you want.
-
- New recipes
-
-Mop ANY q-ty of liquid in a tile.
-
-Also some non-mentioned features
-
-Medium Battery requires basement until it's built, idk how to deal with that yet, so you can remove the basement after it's built ))
-
-The Dupes' stamina is NOT dropping and they can hold their pee for a lifetime.
 
 -------------
 Cheety Creety mod
